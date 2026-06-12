@@ -19,4 +19,3 @@
 10. [Trie](./10-trie)
 11. [Union Find (DSU)](./11-union-find)
 12. [Greedy](./12-greedy)
-
