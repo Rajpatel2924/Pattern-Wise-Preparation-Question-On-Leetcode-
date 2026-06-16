@@ -1,113 +1,368 @@
 <div align="center">
 
-# Pattern-Wise LeetCode Interview Preparation
+# 🚀 Pattern-Wise LeetCode Mastery
 
-### A structured roadmap for mastering the patterns behind technical interviews
+### Master Data Structures & Algorithms Through Pattern Recognition
 
-[![Questions](https://img.shields.io/badge/Curated%20Questions-120-2563eb?style=for-the-badge)](#study-roadmap)
-[![Patterns](https://img.shields.io/badge/Core%20Patterns-12-7c3aed?style=for-the-badge)](#study-roadmap)
-[![Progress](https://img.shields.io/badge/Progress-Self%20Paced-059669?style=for-the-badge)](#recommended-workflow)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Crack+FAANG+%26+Top+Tech+Interviews;120%2B+Curated+LeetCode+Problems;Master+12+Core+Interview+Patterns;Learn+DSA+the+Smart+Way;Pattern+Recognition+%3E+Memorization" alt="Typing SVG" />
+</p>
+<p align="center">
 
-[Explore the roadmap](#study-roadmap) · [Start preparing](#recommended-workflow) · [Track progress](#progress-tracking)
+![Questions](https://img.shields.io/badge/Questions-120+-2563EB?style=for-the-badge)
+![Patterns](https://img.shields.io/badge/Patterns-12-7C3AED?style=for-the-badge)
+![Interview Ready](https://img.shields.io/badge/Interview-Ready-DC2626?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Level-Beginner_to_Advanced-059669?style=for-the-badge)
 
-</div>
+</p>
+
+<p align="center">
+  <a href="#-why-this-repository">Why This Repo?</a> •
+  <a href="#-study-roadmap">Roadmap</a> •
+  <a href="#-preparation-strategy">Strategy</a> •
+  <a href="#-progress-dashboard">Progress</a> •
+  <a href="#-repository-structure">Structure</a>
+</p>
 
 ---
 
-## About This Repository
+### 📊 Developer Dashboard
 
-This repository is a pattern-first interview preparation guide built around carefully selected LeetCode problems. Instead of solving questions at random, use each topic to recognize a reusable technique, understand its trade-offs, and practice applying it under interview conditions.
+</div>
 
-The collection includes foundational problems, common variations, and advanced questions associated with frequently reported interview patterns at companies such as Amazon, Google, Meta, Microsoft, Bloomberg, Uber, and Airbnb.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/cs1m_2414227?theme=dark&font=Karma&ext=heatmap" />
+</p>
 
-> Company tags are directional, not guarantees. Interview question pools and hiring processes change over time.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajpatel2924&theme=tokyonight" />
+</p>
 
-## Study Roadmap
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajpatel2924&label=Repository+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-| # | Pattern | Questions | Primary Skills | Practice |
-|---|---------|:---------:|----------------|----------|
-| 01 | Two Pointers | 10 | Opposing pointers, sorted arrays, in-place scanning | [Open topic](./01-two-pointers/QUESTIONS.md) |
-| 02 | Sliding Window | 10 | Dynamic ranges, frequency maps, substring optimization | [Open topic](./02-sliding-window/QUESTIONS.md) |
-| 03 | Breadth-First Search | 10 | Level traversal, shortest paths, multi-source BFS | [Open topic](./03-breadth-first-search/QUESTIONS.md) |
-| 04 | Depth-First Search | 10 | Recursion, graph traversal, tree reasoning | [Open topic](./04-depth-first-search/QUESTIONS.md) |
-| 05 | Backtracking | 10 | Search trees, constraints, pruning | [Open topic](./05-backtracking/QUESTIONS.md) |
-| 06 | Heap / Priority Queue | 10 | Top-k, scheduling, streaming data | [Open topic](./06-heap/QUESTIONS.md) |
-| 07 | Binary Search | 10 | Sorted search, boundaries, search on answers | [Open topic](./07-binary-search/QUESTIONS.md) |
-| 08 | Dynamic Programming | 10 | State design, transitions, memoization | [Open topic](./08-dynamic-programming/QUESTIONS.md) |
-| 09 | Divide and Conquer | 10 | Recursive decomposition, merge sort, quickselect | [Open topic](./09-divide-and-conquer/QUESTIONS.md) |
-| 10 | Trie | 10 | Prefix search, autocomplete, bitwise tries | [Open topic](./10-trie/QUESTIONS.md) |
-| 11 | Union Find / DSU | 10 | Connectivity, components, minimum spanning trees | [Open topic](./11-union-find/QUESTIONS.md) |
-| 12 | Greedy | 10 | Local choices, intervals, reachability | [Open topic](./12-greedy/QUESTIONS.md) |
+---
 
-Some problems intentionally appear in more than one topic because strong interview preparation includes recognizing when multiple patterns can solve the same problem.
+# 🎯 Why This Repository?
 
-## Recommended Workflow
+Most candidates solve random LeetCode problems.
 
-1. **Learn the pattern**
+Top candidates master patterns.
 
-   Read the topic's `TOPIC.md` and identify when the technique is useful.
+This repository follows a **Pattern-Based Interview Preparation System** designed to help you recognize reusable problem-solving techniques that frequently appear in coding interviews.
 
-2. **Solve without hints**
+Instead of memorizing hundreds of solutions, you'll learn:
 
-   Open `QUESTIONS.md`, set a timer, and explain your approach before writing code.
+✅ Pattern Recognition
 
-3. **Record the attempt**
+✅ Problem Decomposition
 
-   Add the result, complexity, mistakes, and key learning to `ATTEMPT_LOG.md`.
+✅ Interview Communication
 
-4. **Write the final solution**
+✅ Optimization Techniques
 
-   Use `SOLUTIONS.md` for the problem description, intuition, multilingual Python/Java/C++ reference, and your final complexity notes.
+✅ Complexity Analysis
 
-5. **Revisit strategically**
+✅ Edge Case Handling
 
-   Retry missed or slow questions after 1 day, 1 week, and 1 month.
+✅ Real Interview Thinking Process
 
-## Progress Tracking
+---
 
-Use the `Status` column in every question sheet:
+# 🏢 Frequently Asked Interview Companies
 
-| Status | Meaning |
-|--------|---------|
-| `Not started` | The problem has not been attempted yet |
-| `In progress` | The approach is understood but needs refinement |
-| `Solved` | A correct solution was completed independently |
-| `Review` | The problem should be revisited |
+<p align="center">
 
-A problem is interview-ready when you can:
+| Amazon | Google | Meta | Microsoft |
+|---------|---------|---------|---------|
+| Uber | Airbnb | Bloomberg | Atlassian |
+| Adobe | Salesforce | Walmart | LinkedIn |
 
-- Recognize the underlying pattern quickly
-- Explain the brute-force and optimized approaches
-- Write a correct solution without external help
-- State time and space complexity confidently
-- Handle edge cases and follow-up questions
+</p>
 
-## Repository Structure
+> Company tags are directional references based on community-reported experiences and may change over time.
+
+---
+
+# 🧠 Pattern Learning Roadmap
+
+<table>
+<tr>
+<td align="center">🔄<br><b>Two Pointers</b></td>
+<td align="center">🪟<br><b>Sliding Window</b></td>
+<td align="center">🌊<br><b>BFS</b></td>
+<td align="center">🌳<br><b>DFS</b></td>
+</tr>
+
+<tr>
+<td align="center">🧩<br><b>Backtracking</b></td>
+<td align="center">📊<br><b>Heap</b></td>
+<td align="center">🎯<br><b>Binary Search</b></td>
+<td align="center">⚡<br><b>Dynamic Programming</b></td>
+</tr>
+
+<tr>
+<td align="center">⚔️<br><b>Divide & Conquer</b></td>
+<td align="center">🌲<br><b>Trie</b></td>
+<td align="center">🔗<br><b>Union Find</b></td>
+<td align="center">🏆<br><b>Greedy</b></td>
+</tr>
+</table>
+
+---
+
+# 📚 Study Roadmap
+
+| # | Pattern | Questions | Key Concepts | Folder |
+|---|----------|----------|----------|----------|
+| 01 | Two Pointers | 10 | Opposing pointers, sorted arrays | 01-two-pointers |
+| 02 | Sliding Window | 10 | Dynamic ranges, substrings | 02-sliding-window |
+| 03 | BFS | 10 | Shortest paths, levels | 03-breadth-first-search |
+| 04 | DFS | 10 | Trees, recursion, graphs | 04-depth-first-search |
+| 05 | Backtracking | 10 | Search spaces, pruning | 05-backtracking |
+| 06 | Heap | 10 | Top K, scheduling | 06-heap |
+| 07 | Binary Search | 10 | Search space reduction | 07-binary-search |
+| 08 | Dynamic Programming | 10 | State transitions | 08-dynamic-programming |
+| 09 | Divide & Conquer | 10 | Recursive decomposition | 09-divide-and-conquer |
+| 10 | Trie | 10 | Prefix operations | 10-trie |
+| 11 | Union Find | 10 | Connectivity problems | 11-union-find |
+| 12 | Greedy | 10 | Local optimal choices | 12-greedy |
+
+---
+
+# 🏆 Interview Readiness Levels
+
+| Level | Goal |
+|---------|---------|
+| 🟢 Beginner | Understand brute force |
+| 🔵 Intermediate | Learn optimized solutions |
+| 🟣 Advanced | Explain trade-offs confidently |
+| 🟠 Interview Ready | Solve independently |
+| 🔴 Elite | Solve under interview pressure |
+
+---
+
+# 📈 Progress Dashboard
+
+Track your preparation journey.
+
+| Pattern | Progress |
+|----------|----------|
+| Two Pointers | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Sliding Window | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| BFS | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| DFS | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Backtracking | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Heap | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Binary Search | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Dynamic Programming | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Divide & Conquer | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Trie | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Union Find | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Greedy | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+
+---
+
+# 🎯 Preparation Strategy
+
+## Step 1 — Learn the Pattern
+
+Read:
+
+```text
+TOPIC.md
+````
+
+Understand:
+
+* When to use it
+* Why it works
+* Common pitfalls
+* Real interview variations
+
+---
+
+## Step 2 — Solve Without Hints
+
+Read:
+
+```text
+QUESTIONS.md
+```
+
+Recommended Time Limits:
+
+| Difficulty | Time   |
+| ---------- | ------ |
+| Easy       | 15 min |
+| Medium     | 25 min |
+| Hard       | 45 min |
+
+---
+
+## Step 3 — Track Mistakes
+
+Update:
+
+```text
+ATTEMPT_LOG.md
+```
+
+Record:
+
+* Mistakes made
+* Time spent
+* Missed edge cases
+* Key insights
+
+---
+
+## Step 4 — Study Optimized Solutions
+
+Review:
+
+```text
+SOLUTIONS.md
+```
+
+Focus on:
+
+* Intuition
+* Optimization
+* Complexity
+* Alternative approaches
+
+---
+
+## Step 5 — Revisit Problems
+
+Apply Spaced Repetition:
+
+```text
+Day 1
+ ↓
+Day 7
+ ↓
+Day 30
+```
+
+This dramatically improves retention.
+
+---
+
+# 🔥 Pattern Recognition Framework
+
+```text
+Read Problem
+      ↓
+Analyze Constraints
+      ↓
+Recognize Pattern
+      ↓
+Choose Data Structure
+      ↓
+Develop Approach
+      ↓
+Optimize Solution
+      ↓
+Analyze Complexity
+      ↓
+Handle Edge Cases
+```
+
+Master this framework and most coding interviews become significantly easier.
+
+---
+
+# 🧩 Repository Structure
 
 ```text
 .
-├── 01-two-pointers/
-│   ├── TOPIC.md          # Pattern overview and core ideas
-│   ├── QUESTIONS.md      # Curated interview question roadmap
-│   ├── ATTEMPT_LOG.md    # Personal attempts and learning notes
-│   └── SOLUTIONS.md      # Descriptions, intuition, and multilingual references
-├── ...
-├── 12-greedy/
-└── README.md
+├── README.md
+│
+├── 01-two-pointers
+│   ├── TOPIC.md
+│   ├── QUESTIONS.md
+│   ├── ATTEMPT_LOG.md
+│   └── SOLUTIONS.md
+│
+├── 02-sliding-window
+├── 03-breadth-first-search
+├── 04-depth-first-search
+├── 05-backtracking
+├── 06-heap
+├── 07-binary-search
+├── 08-dynamic-programming
+├── 09-divide-and-conquer
+├── 10-trie
+├── 11-union-find
+└── 12-greedy
 ```
 
-## Preparation Principles
+---
 
-- Prioritize pattern recognition over memorizing solutions.
-- Communicate assumptions and trade-offs before coding.
-- Prefer simple, correct solutions before optimizing.
-- Practice edge cases explicitly.
-- Re-solve difficult questions until the approach feels natural.
+# 💡 Golden Interview Rules
+
+✔ Clarify assumptions
+
+✔ Start with brute force
+
+✔ Discuss trade-offs
+
+✔ Optimize gradually
+
+✔ Communicate continuously
+
+✔ Analyze complexity
+
+✔ Test edge cases
+
+✔ Write clean code
+
+✔ Stay calm under pressure
+
+---
+
+# 🌟 Contribution
+
+Found a better problem?
+
+Want to improve explanations?
+
+Feel free to:
+
+* Open an Issue
+* Submit a Pull Request
+* Suggest New Questions
+* Improve Solutions
+
+Contributions are always welcome.
+
+---
+
+# 🚀 Final Goal
+
+The goal isn't to solve 120 questions.
+
+The goal is to become the engineer who can:
+
+🧠 Recognize patterns instantly
+
+⚡ Build optimal solutions
+
+🎯 Communicate effectively
+
+🏆 Crack technical interviews confidently
 
 ---
 
 <div align="center">
 
-**Consistency beats intensity. Solve, reflect, revisit, repeat.**
+## ⭐ Star This Repository If It Helps You
+
+### Solve → Learn → Reflect → Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:9333EA&section=footer"/>
 
 </div>
